@@ -16,13 +16,13 @@ Este repositório tem como objetivo guardar as atividades realizadas durante o s
 ## 📁 Atividades
 
 
-|  Atividade  |       Tema        |   Branch    | Status |
+|  Atividade  |       Tema       |   Branch     | Status |
 |:-----------:|:----------------:|:------------:|:------:|
 |      1      |      Thread      |    thread    |   OK   |
 |      2      |  CRUD Properties |  properties  |   OK   |
 |      3      |    CRUD JDBC     |     jdbc     | NOT OK |
 |      4      |     CRUD JPA     |     jpa      | NOT OK |
-|      5      |         ?        |      ?       | NOT OK |
+|      5      |    desafio JPA   |   desafio    | NOT OK |
 
 
 ## 🖥️ Tecnologias
