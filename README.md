@@ -13,6 +13,8 @@
 
 Este repositório tem como objetivo guardar as atividades realizadas durante o semestre.
 
+Vale lembrar que só estarão presentes os arquivos contendo a lógica da atividade (src), o resto faz parte do ambiente de desenvolvimento, caso deseje criar um servidor tomcat para implementar os códigos deste repositório, basta acessar meu [tutorial](https://luan-grod.notion.site/Aula-5-CONTINUA-O-SERVIDOR-APACHE-c42186bbc1de45329c1521e973989410)
+
 ## 📁 Atividades
 
 |  Atividade  |       Tema       |   Branch     | Status |
@@ -22,6 +24,10 @@ Este repositório tem como objetivo guardar as atividades realizadas durante o s
 |      3      |    CRUD JDBC     |     jdbc     | NOT OK |
 |      4      |     CRUD JPA     |     jpa      | NOT OK |
 |      5      |    desafio JPA   |   desafio    | NOT OK |
+
+#### Alternando entre branches
+
+![Main](https://github.com/LuanGrod/PortfolioLP2A4/blob/main/assets/exemplo.JPG)
 
 ## 🖥️ Tecnologias
 <div>
