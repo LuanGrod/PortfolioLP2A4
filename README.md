@@ -1,5 +1,5 @@
 # Portfólio - LP2A4
-[![status](https://img.shields.io/badge/status-incompleto-yellow)](https://github.com/LuanGrod/)
+[![status](https://img.shields.io/badge/status-completo-green)](https://github.com/LuanGrod/)
 [![licence](https://img.shields.io/badge/licença-NONE-red)](https://github.com/LuanGrod/PortfolioLP2A4)
 
 ## ✍️ Descrição
