@@ -21,9 +21,9 @@ Vale lembrar que só estarão presentes os arquivos contendo a lógica da ativid
 |:-----------:|:----------------:|:------------:|:------:|
 |      1      |      Thread      |    thread    |   OK   |
 |      2      |  CRUD Properties |  properties  |   OK   |
-|      3      |    CRUD JDBC     |     jdbc     | NOT OK |
-|      4      |     CRUD JPA     |     jpa      | NOT OK |
-|      5      |    desafio JPA   |   desafio    | NOT OK |
+|      3      |    CRUD JDBC     |     jdbc     |   OK   |
+|      4      |     CRUD JPA     |     jpa      |   OK   |
+|      5      |    desafio JPA   |   desafio    |   OK   |
 
 #### Alternando entre branches
 
